@@ -4,7 +4,7 @@
   "description": "React Native Router using Flux architecture",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aksonov/react-native-router-flux"
+    "url": "https://github.com/firstopinion/react-native-router-flux"
   },
   "license": "ISC",
   "main": "dist/index.js",
@@ -22,7 +22,7 @@
     "opencollective": "^1.0.3",
     "prop-types": "^15.5.10",
     "react-native-button": "^2.0.0",
-    "react-navigation": "^1.0.0-beta.11"
+    "react-navigation": "git://github.com/firstopinion/react-navigation"
   },
   "devDependencies": {
     "babel-cli": "~6.24.1",
